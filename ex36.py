@@ -1,6 +1,7 @@
 from sys import exit
 from random import randint
 
+# Hmm.
 # The treasure they are looking for
 # print "In doing so you have managed to recover",treasure,"and quickly head out the exit."
 # Make the treasure fit in the sentence above.
